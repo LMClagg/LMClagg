@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Lyndsey M. Clagg
-- 🎓 I am a Computer Science major at Langston University
-- 🌱 I’m currently learning Git and GitHub
-- 💻 I'm also polishing up my Java skills consistantly
-- 🔮 I will begin learning Python soon
-- 🎒 Then, I will learn SQL and PowerShell
-- 📫 How to reach me: lyndsey.clagg@langston.edu
+- 👋 Hi, I’m Lyndsey Clagg
+- 🎓 I have a Computer Science Bachelor's Degree with a Mathematics Minor
+- 🌱 I have a strong background in Java
+- 💻 I'm also polishing up my Python skills
+- 🔮 Then, I want to learn SQL and PowerShell
+- 🎒 
+- 📫 
 <!---
 LMClagg/LMClagg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
